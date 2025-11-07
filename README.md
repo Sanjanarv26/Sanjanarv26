@@ -111,9 +111,9 @@ St. Paul's Convent Girls High School
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjanarv26&theme=react" height="150"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanarv26&layout=compact&theme=react" />
-</p>
+</p> -->
 
 ---
 
